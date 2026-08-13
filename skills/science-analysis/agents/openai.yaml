@@ -1,0 +1,4 @@
+interface:
+  display_name: "Science Analysis"
+  short_description: "Plan and conduct reproducible analyses"
+  default_prompt: "Use $science-analysis to plan a reproducible scientific analysis."

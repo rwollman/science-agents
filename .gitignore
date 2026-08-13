@@ -1,0 +1,16 @@
+# Local runtime state and generated results
+.agent-runtime/
+.science-agents/
+runtime/
+artifacts/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+
+# Editors and operating systems
+.DS_Store
+*.swp
+*~

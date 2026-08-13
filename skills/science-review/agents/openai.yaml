@@ -1,0 +1,4 @@
+interface:
+  display_name: "Science Review"
+  short_description: "Review scientific work and evidence"
+  default_prompt: "Use $science-review to review scientific work and evidence."

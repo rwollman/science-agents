@@ -1,0 +1,4 @@
+interface:
+  display_name: "Science Figure"
+  short_description: "Create publication-ready science figures"
+  default_prompt: "Use $science-figure to plan a clear scientific figure."
